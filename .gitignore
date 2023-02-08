@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+translate_example
+image
+corpus
+positive.csv
+negative.csv
+test_tweets.csv
+train_tweets.csv
+processed_test.pkl
+processed_train.pkl
+.DS_Store
